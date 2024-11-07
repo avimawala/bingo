@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Mocking British accents", "Pushups", "Lil Vim Snarkle", "Derek shares 'funny story'", "Jared/Derek mixup",
         "Complaining about other teams", "Amazon shame list", "PT Freebie", "Simon complains about something", "'Egregious'", "Simon Vaping",
         "Tome gets deleted", "Dog or baby interruption", "Jeremy drops a euphemism", "Someone caught not listening", "'Is that a sex thing'",
-        "'Growth is joining us on the hour'", "Discover something polarizing", "'Well yes, and no'", "Client books over BT"
+        "'Ya'll'", "Discover something polarizing", "'Well yes, and no'", "Client books over BT"
     ];
 
     // Shuffle and create a random board for each participant.
