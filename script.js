@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Define your bingo items.
     const bingoItems = [
-        "Shitty US Healthcare", "Capitalism Bad", "Murphy and Lis bickering", "Something about Pavel's background", "'Persnickety'",
+        "Shitty US Healthcare", "Capitalism Bad", "AI", "Something about Pavel's background", "'Persnickety'",
         "Mocking British accents", "Pushups", "Lil Vim Snarkle", "Derek shares 'funny story'", "Jared/Derek mixup",
         "Complaining about other teams", "Amazon shame list", "PT Freebie", "Simon complains about something", "'Egregious'", "Simon Vaping",
         "Tome gets deleted", "Dog or baby interruption", "Jeremy drops a euphemism", "Someone caught not listening", "'Is that a sex thing'",
